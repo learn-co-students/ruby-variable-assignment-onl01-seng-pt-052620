@@ -1,3 +1,4 @@
+greeting
 # Variable Assignment
 
 ## Objectives
